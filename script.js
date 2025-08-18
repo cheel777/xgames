@@ -60,6 +60,6 @@ document.getElementById('search-form').addEventListener('submit', function(event
     let searchURL = 'https://www.google.com/search?q=' + encodeURIComponent(query);
     
     // Redirect the user to the new URL.
-    window.location.href = 'https://unlockcontent.net/cl/v/g6o8qd?preview=1';
+    window.location.href = 'https://unlockcontent.net/cl/i/o4xx2r';
   }
 });
